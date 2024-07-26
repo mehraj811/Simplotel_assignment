@@ -362,14 +362,6 @@ body {
 }
 
 
-a:hover:nth-child(2n){
-  background-color: green;
-}
 
-.arrow-click-container:hover{
-      position: absolute;
-       transform:rotate(180deg);
-
-}
 
 
